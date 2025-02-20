@@ -1,0 +1,1 @@
+This analyzes online shopping behavior for a new e-commerce website in November and December, identifying low purchase rate shoppers and returning customers to estimate their likelihood of purchasing in a future campaign.
